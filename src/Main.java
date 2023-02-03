@@ -19,15 +19,17 @@ public class Main {
         String str = sc.next();
      switch(str){
          case "a":
-             System.out.println("speak in English");
+             System.out.println("speak   in English");
              break;
          case "b":
-             System.out.println("speak in french");
+             System.out.println("speak in f rench");
              break;
+
          case "c":
              System.out.println("speak in punjabi");
              break;
          default:
+
              System.out.println("please select proper value");
                   }
 }}
