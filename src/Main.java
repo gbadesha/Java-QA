@@ -18,6 +18,7 @@ public class Main {
         System.out.println("enter a for English \n Enter b for french \n Enter c for punjabi");
         String str = sc.next();
      switch(str){
+
          case "a":
              System.out.println("speak   in English");
              break;
