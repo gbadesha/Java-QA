@@ -5,6 +5,7 @@ public class FactorialofaNumber {
         int n;
         int z=1;
         Scanner s= new Scanner(System.in);
+
         System.out.println("Factorial Program\n" + "Enter the number\n");
                 n=s.nextInt();
         while(n>1){
