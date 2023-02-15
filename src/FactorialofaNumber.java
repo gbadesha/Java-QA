@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class FactorialofaNumber {
+    FactorialofaNumber obj;
+
     public static void main(String[] args){
         int n;
         int z=1;
