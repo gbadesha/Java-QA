@@ -1,3 +1,5 @@
+package Basic_programs;
+
 public class SumofNaturalNumbers {
     public static void main(String[] args){
         System.out.println("Sum of first 10 natural numbers");

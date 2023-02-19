@@ -1,11 +1,14 @@
-public class Car {
+public class Car{
+    public static void main(String[] args){
+
+
     String color;
     String make;
         int model;
-    public Car(){
+    //Car(){
 
-    }// constructor as the name of a class
-    void drive(){
-        System.out.println(make + " " + model + " " + color);
-    }
-}
+    //}// constructor as the name of a class
+    //void drive(){
+        //System.out.println(make + " " + model + " " + color);
+    //}
+}}
